@@ -54,7 +54,6 @@ class CareerPage extends Page {
         }
         await browser.waitUntil(() => $(`//li[text()="${city}"]`).isClickable());
         await $(`//li[text()="${city}"]`).click();
-        browser.pause(1000);
     }
 
     acceptCookies() {
