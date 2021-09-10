@@ -1,7 +1,7 @@
 {
   "name": "test_framework",
   "version": "1.0.0",
-  "description": "hellow rold",
+  "description": "test framework",
   "main": "index.js",
   "directories": {
     "test": "test"

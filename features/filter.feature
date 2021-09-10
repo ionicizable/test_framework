@@ -1,12 +1,5 @@
 Feature: EPAM Career tests
 
-  # Scenario: As a user, I can click Learn more
-
-  #   Given I open 'https://www.epam.com/careers'
-  #   When I accept cookies
-  #   And I click "Learn more"
-  #   Then url should be "https://www.epam.com/careers/epam-without-borders"
-
   Scenario Outline: As a user, I can use all filters
 
     Given I open 'https://www.epam.com/careers'
